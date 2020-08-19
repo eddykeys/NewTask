@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050314870125",
+    "firebase_url": "https://newtask-667ff.firebaseio.com",
+    "project_id": "newtask-667ff",
+    "storage_bucket": "newtask-667ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050314870125:android:177087db74e601a579de64",
+        "android_client_info": {
+          "package_name": "com.eddyonkeys.newtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050314870125-rq9ti78uo0mhbjfj279k6slt30mddnfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ZSVq9Hfz7w654G-U_CrQejRcMeJLiHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050314870125-rq9ti78uo0mhbjfj279k6slt30mddnfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
